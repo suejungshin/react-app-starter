@@ -11,10 +11,12 @@ Ready to build a really cool web app but tired of all the set-up? This repo is f
 
 1. ```npm install```
 2. ```npm start```
-3. ```npm run build```   (or ```npm run build-dev``` to run in development mode)
+3. ```npm run build```
 
 
 ## API endpoints
+
+Starter ReadMe below with example data (skeleton repo doesn't actually do all this right now!)
 
   #### GET /cars
 
